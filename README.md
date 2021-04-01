@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Huy-jpg
+- 👀 I’m weighing between A.I. and Cybersecurity
+- 🌱 I’m currently learning FrontEnd Web development and Python.
+- 📫 email: Huyhb151@gmail.com
+- 📫 Linkedin: [My Profile](https://www.linkedin.com/in/hoang-bui-aa21b01ab/)
